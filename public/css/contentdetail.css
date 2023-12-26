@@ -1,0 +1,32 @@
+/* contentdetail.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.content-detail {
+    width: 80%;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.content-detail h1 {
+    margin-bottom: 20px;
+}
+
+.content-detail p {
+    color: #666;
+}
+
+.rounded-image {
+    width: 100px; /* atau ukuran lain yang diinginkan */
+    height: 100px; /* sama dengan lebar untuk membuat bentuk lingkaran sempurna */
+    border-radius: 50%; /* membuat tepian menjadi bulat */
+    object-fit: cover; /* memastikan gambar menutupi area tanpa merusak aspek rasio */
+}

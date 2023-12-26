@@ -1,0 +1,110 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Models\Content;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth; // Tambahkan baris ini
+
+class ContentController extends Controller
+{
+
+    public function index(Request $request)
+    {
+        //jangan lupa import model Post dengan cara klik kanan untuk import
+      //  $language = Content::all();
+        //berfungsi untuk mengatur jenis data yang akan ditampilkan
+     //   return response()->json(['data' => $language]);
+   
+        $contents = Content::all(); // Ambil semua konten
+        return view('viewcontent', compact('contents'));
+        //return response()->json(['data' => $contents]);
+
+       // Bagian ini adalah untuk pencarian
+       $query = Content::query();
+
+       if ($request->has('search')) {
+           $search = $request->input('search');
+           $query->where('name', 'LIKE', "%{$search}%");
+       }
+
+       $contents = $query->get();
+
+       return view('viewcontent', compact('contents'));
+
+
+    }
+
+    
+
+
+    public function create()
+        {
+            return view('createcontent'); // 'createcontent' adalah nama file view Anda untuk form pembuatan konten
+        }
+
+
+    public function store(Request $request)
+    {
+        $content = new Content();
+        $content->name = $request->name;
+        $content->desc = $request->desc;
+        $content->logo_path = $request->logo_path;
+        $content->link = $request->link;
+        $content->id_users = Auth::id();
+        $content->save();
+
+        // Set flash message
+        session()->flash('success', 'Content Berhasil ditambahkan');
+        return redirect('/dashboard');
+    }
+
+    public function destroy($id)
+        {
+            $content = Content::find($id);
+
+            // Periksa apakah user saat ini adalah pemilik konten
+            if ($content && Auth::id() == $content->id_users) {
+                $content->delete();
+                return redirect('/viewcontent')->with('success', 'Content berhasil dihapus');
+            }
+
+            return back()->with('error', 'Anda tidak memiliki izin untuk menghapus konten ini');
+        }
+
+
+
+
+
+        public function edit($id)
+            {
+                $content = Content::findOrFail($id);
+                return view('editcontent', compact('content'));
+            }
+
+            public function update(Request $request, $id)
+            {
+                $content = Content::findOrFail($id);
+                $content->name = $request->name;
+                $content->desc = $request->desc;
+                $content->logo_path = $request->logo_path;
+                $content->link = $request->link;
+        
+                // Update field lain sesuai kebutuhan
+        
+                $content->save();
+        
+                return redirect('/viewcontent')->with('success', 'Konten berhasil di-update');
+            }
+
+
+
+            public function show($id)
+                {
+                    $content = Content::findOrFail($id);
+                    return view('viewcontentbyid', compact('content'));
+                }
+
+
+}
+

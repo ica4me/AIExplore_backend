@@ -1,0 +1,82 @@
+/* style.css */
+
+/* Styling umum untuk body */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+/* Styling untuk header */
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Styling utama */
+main {
+    padding: 20px;
+}
+
+/* Styling untuk section */
+section {
+    background: #fff;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+/* Styling untuk form group */
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* Styling label */
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Styling input fields dan textarea */
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Styling untuk textarea */
+textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+/* Styling untuk button */
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Styling hover untuk button */
+button:hover {
+    background: #555;
+}
+
+/* Styling untuk footer */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background: #333;
+    color: #fff;
+}
