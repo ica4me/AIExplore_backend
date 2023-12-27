@@ -1,6 +1,6 @@
-# Muslim Companion
+# AIExplore
 
-<img src="https://raw.githubusercontent.com/ica4me/UploadGambar/main/IMG_20231221_062736.jpg" alt="Your Image Description" style="height: 173px; width: 173px;" />
+<img src="https://raw.githubusercontent.com/ica4me/AIExplore_backend/main/public/img/aiexplore.png" alt="Your Image Description" style="height: 173px; width: 173px;" />
 
 
 
