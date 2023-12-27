@@ -26,8 +26,8 @@ AI Explorer adalah sebuah aplikasi yang akan membantu Anda mengetahui perkembang
 </table>
 
 ## Download ZIP Laravel Project
-<a href="https://drive.google.com/file/d/1TTYA83UiwLmt_FAJ1nRxENZZvS4pVLS_/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/32610660/162807457-84acad9d-cd36-4911-98c5-1c1cb03cb873.png" title="Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1TTYA83UiwLmt_FAJ1nRxENZZvS4pVLS_/view?usp=sharing" target="_blank"><img src="https://pa-malangkab.go.id/jdih/node_modules/laravel-mix/icons/laravel.png" title="Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Download APK/Android Kotlin (interface)
-<a href="https://drive.google.com/file/d/1CuQclywtXKegAJDpMj0sCywhXd6RaoDc/view?usp=sharing" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:600/format:webp/0*2ChgeoJey0ziP8DD" title="Download APK Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1CuQclywtXKegAJDpMj0sCywhXd6RaoDc/view?usp=sharing" target="_blank"><img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
