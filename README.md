@@ -1,10 +1,10 @@
-# wahyudi 21076076
+wahyudi 21076076
 
 # AIExplore
 
 <img src="https://raw.githubusercontent.com/ica4me/AIExplore_backend/main/public/img/aiexplore.png" alt="Your Image Description" style="height: 173px; width: 173px;" />
 
-AIExplore adalah...
+AI Explorer adalah sebuah aplikasi yang akan membantu Anda mengetahui perkembangan terbaru di bidang kecerdasan buatan (AI). Aplikasi ini akan memberikan informasi tentang berbagai topik yang berkaitan dengan AI, seperti definisi, sejarah, jenis, aplikasi, tantangan, dan masa depan AI. Anda juga dapat mengeksplorasi berbagai contoh AI yang ada di dunia nyata, seperti pengenalan wajah, pengenalan suara, penerjemahan bahasa, dan lain-lain. AI Explorer adalah aplikasi yang cocok untuk siapa saja yang ingin belajar tentang AI, baik itu pelajar, mahasiswa, profesional, atau penggemar teknologi. Aplikasi ini akan memberikan Anda wawasan yang luas dan mendalam tentang AI, serta menginspirasi Anda untuk terlibat lebih aktif dalam bidang ini. Dengan AI Explorer, Anda akan menjadi lebih cerdas, kreatif, dan siap menghadapi tantangan masa depan.
 
 
 
@@ -26,8 +26,8 @@ AIExplore adalah...
 </table>
 
 ## Download ZIP Laravel Project
-<a href="https://drive.google.com/drive/folders/19K9xj1u2Sbr-mJzQAVXI6yhKK8iy2eTq?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/32610660/162807457-84acad9d-cd36-4911-98c5-1c1cb03cb873.png" title="Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1TTYA83UiwLmt_FAJ1nRxENZZvS4pVLS_/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/32610660/162807457-84acad9d-cd36-4911-98c5-1c1cb03cb873.png" title="Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Download APK/Android Kotlin (interface)
-<a href="https://drive.google.com/file/d/1-Kia62Kz44uXEoyRRgB1OqSe0aJn-92x/view?usp=sharing" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:600/format:webp/0*2ChgeoJey0ziP8DD" title="Download APK Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1CuQclywtXKegAJDpMj0sCywhXd6RaoDc/view?usp=sharing" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:600/format:webp/0*2ChgeoJey0ziP8DD" title="Download APK Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
