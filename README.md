@@ -1,7 +1,10 @@
+# wahyudi 21076076
+
 # AIExplore
 
 <img src="https://raw.githubusercontent.com/ica4me/AIExplore_backend/main/public/img/aiexplore.png" alt="Your Image Description" style="height: 173px; width: 173px;" />
 
+AIExplore adalah...
 
 
 
