@@ -1,66 +1,30 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Muslim Companion
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<img src="https://raw.githubusercontent.com/ica4me/UploadGambar/main/IMG_20231221_062736.jpg" alt="Your Image Description" style="height: 173px; width: 173px;" />
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Screenshot
+<table style="width:100%">
+  <tr>
+    <th><img src="https://user-images.githubusercontent.com/32610660/180285609-29b55f17-23b2-43ae-92d5-aa6ca727a544.png"/></th>
+    <th><img src="https://user-images.githubusercontent.com/32610660/162801816-a27d08c2-14fe-429e-9beb-8db0d229f399.png"/></th>
+    <th><img src="https://user-images.githubusercontent.com/32610660/162801850-0908fdad-4db4-493b-a92d-ee3fe6198a5e.png"/></th>
+    <th><img src="https://user-images.githubusercontent.com/32610660/162801861-d2288f2f-d03d-4f35-90b9-9b56e14bf6ff.png"/></th>
+    <th><img src="https://user-images.githubusercontent.com/32610660/180285711-d8dabb74-fbd9-49dd-99c9-4e73bb578945.png"/></th>
+  </tr>
+    <tr>
+    <th><img src="https://user-images.githubusercontent.com/32610660/180283731-4edbe882-5541-47b5-84c3-5458c7c9fb6a.png"/></th>
+    <th><img src="https://user-images.githubusercontent.com/32610660/180283741-63629147-3e55-477e-aeec-2a1b47c0af54.png"/></th>
+    <th><img src="https://user-images.githubusercontent.com/32610660/180283743-b498aa7c-510f-4a79-95e0-04437eb16cc8.png"/></th>
+    <th><img src="https://user-images.githubusercontent.com/32610660/180284254-0efb01e1-919c-46b6-888d-69de1931ea7d.png"/></th>
+  </tr>
+</table>
 
-## Learning Laravel
+## Download ZIP
+<a href="https://drive.google.com/drive/folders/19K9xj1u2Sbr-mJzQAVXI6yhKK8iy2eTq?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/32610660/162807457-84acad9d-cd36-4911-98c5-1c1cb03cb873.png" title="Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Download APK/Android
+<a href="https://drive.google.com/file/d/1-Kia62Kz44uXEoyRRgB1OqSe0aJn-92x/view?usp=sharing" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:600/format:webp/0*2ChgeoJey0ziP8DD" title="Download APK Muslim Companion" height="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
